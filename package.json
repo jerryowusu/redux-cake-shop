@@ -1,0 +1,23 @@
+{
+  "name": "redux-cake-shop",
+  "version": "1.0.0",
+  "description": "\"Redux Cake Shop\" is a tutorial app I used to learn the fundamentals and principles of redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryowusu/redux-cake-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerryowusu/redux-cake-shop/issues"
+  },
+  "homepage": "https://github.com/jerryowusu/redux-cake-shop#readme",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
